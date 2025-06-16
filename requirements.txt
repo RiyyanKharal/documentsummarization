@@ -1,0 +1,9 @@
+Requirements 
+-Install following libraries
+faiss-cpu
+transformers
+sentence-transformers
+scikit-learn
+nltk
+datasets
+torch
